@@ -1,0 +1,9 @@
+.\obj\ahtest2.o: Soc\Ahtest2.c
+.\obj\ahtest2.o: Soc\Ahtest2.h
+.\obj\ahtest2.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\ahtest2.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+.\obj\ahtest2.o: Soc\rtwtypes.h
+.\obj\ahtest2.o: Soc\rtw_continuous.h
+.\obj\ahtest2.o: Soc\rtw_solver.h
+.\obj\ahtest2.o: Soc\Ahtest2_types.h
+.\obj\ahtest2.o: Soc\Ahtest2_private.h
